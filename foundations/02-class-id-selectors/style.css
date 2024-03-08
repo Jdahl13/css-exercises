@@ -1,0 +1,27 @@
+
+
+.oddNum,
+.newClass{
+    font-family: 'Veranda', 'DejaVu sans', 'sans-serif';
+    background-color: lightpink;
+}
+
+.newClass{
+    font-size: 24px;
+}
+#title {
+    color: blue;
+    font-size: 32px;
+}
+
+#title-2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.newAlert-text{
+    background-color: red;
+    font-size: 24px;
+}
