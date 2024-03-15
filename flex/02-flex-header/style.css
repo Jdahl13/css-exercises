@@ -25,7 +25,7 @@ ul {
   gap: 8px;
   margin: 0px;
   padding: 0px;
-  justify-items: left;
+  justify-content: flex-start;
 }
 
 a {
