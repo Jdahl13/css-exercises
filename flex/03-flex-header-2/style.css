@@ -55,3 +55,10 @@ ul {
   padding: 0px;
   justify-content: flex-start;
 }
+
+.rightSide {
+  display: flex;
+  align-items: center;
+  gap: 0px;
+
+}
