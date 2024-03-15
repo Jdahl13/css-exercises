@@ -56,9 +56,9 @@ ul {
   justify-content: flex-start;
 }
 
-.rightSide {
+.rightSide, .leftSide {
   display: flex;
   align-items: center;
-  gap: 0px;
+  gap: 8px;
 
 }
